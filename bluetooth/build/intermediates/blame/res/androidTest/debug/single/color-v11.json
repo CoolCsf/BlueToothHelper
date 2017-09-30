@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\GitRepository\\BlueToothHelper\\bluetooth\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95cb23053ff07595304ec5d39d9e9c3d6415c91d\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\BlueToothSdk\\bluetooth\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95cb23053ff07595304ec5d39d9e9c3d6415c91d\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\project\\BlueToothSdk\\bluetooth\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95cb23053ff07595304ec5d39d9e9c3d6415c91d\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\GitRepository\\BlueToothHelper\\bluetooth\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95cb23053ff07595304ec5d39d9e9c3d6415c91d\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

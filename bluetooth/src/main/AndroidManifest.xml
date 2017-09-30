@@ -1,0 +1,44 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+
+    package="com.tzdq.bluetooth">
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true">
+        <service
+            android:name=".ble.common.BloodPressureService"
+            android:enabled="true" />
+        <service
+            android:name=".ble.common.VitalCapacityService"
+            android:enabled="true" />
+        <service
+            android:name=".ble.common.OxygenService"
+            android:enabled="true" />
+        <service
+            android:name=".ble.common.GlucoseMeterService"
+            android:enabled="true" />
+        <service
+            android:name=".ble.common.BodyFatsCaleService"
+            android:enabled="true" />
+        <service
+            android:name=".ble.common.UrineAnalyzerService"
+            android:enabled="true" />
+        <service
+            android:name=".ble.common.UricAcidAnalyzerService"
+            android:enabled="true" />
+        <service
+            android:name=".ble.common.BloodFatService"
+            android:enabled="true" />
+        <service
+            android:name=".ble.common.WristbandService"
+            android:enabled="true" />
+        <service
+            android:name=".ble.common.TemperatureService"
+            android:enabled="true" />
+    </application>
+
+</manifest>

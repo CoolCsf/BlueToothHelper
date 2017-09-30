@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "D:\\Android\\project\\BlueToothSdk\\bluetooth\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\95cb23053ff07595304ec5d39d9e9c3d6415c91d\\output\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\GitRepository\\BlueToothHelper\\bluetooth\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\95cb23053ff07595304ec5d39d9e9c3d6415c91d\\output\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]
